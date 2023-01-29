@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucasmenke
-- 👀 I’m interested in programming, financial markets, chess, reading and cooking
+- 👀 I’m interested in programming, financial markets, and reading
 - 🌱 I’m currently doing an apprenticeship as a software engineer
 - 📫 How to reach me: Send me a message on GitHub
 
