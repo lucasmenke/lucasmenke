@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @lucasmenke
+- 👋 Hi, I’m Lucas Menke
 - 🌱 I’m currently doing an apprenticeship as a software engineer
-- 📫 How to reach me: Send me a message on GitHub
 
 <!---
 lucasmenke/lucasmenke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
